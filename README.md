@@ -77,4 +77,4 @@ I’m a web developer who builds clean, user-friendly websites and web applicati
 
 ---
 
-> “Code is not just about solving problems — it’s about creating value.”
+> “Code is not just about solving problems  it’s about creating value.”
