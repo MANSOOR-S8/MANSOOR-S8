@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MANSOOR-S8/MANSOOR-S8/main/assets/banner.svg" alt="Mansoor Shah — Software Developer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/MANSOOR-S8/MANSOOR-S8/main/assets/banner.svg" alt="Mansoor Shah — Web Developer" width="100%"/>
 </p>
 
 # Hi, I'm Mansoor 👋
@@ -8,12 +8,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mansoor-shah-949213264)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6A5ACD?logo=vercel&logoColor=white)](https://personal-portfolio-73.vercel.app/)
 
-I’m a passionate software developer focused on building clean, efficient, and user-friendly digital experiences. I enjoy turning ideas into real-world products, learning new technologies, and solving meaningful problems through code.
+I’m a web developer who builds clean, user-friendly websites and web applications that help businesses go live and grow online. I focus on responsive design, performance, and accessibility to deliver platforms that users love.
 
-- 🔭 Currently exploring and building impactful projects
-- 🌱 Learning modern web development and product-focused engineering
-- 👯 Open to collaboration and exciting opportunities
-- 💬 Ask me about web development, software engineering, and problem solving
+- 🔭 Currently building and maintaining production websites and e-commerce front-ends
+- 🌱 Learning modern web techniques and improving performance and UX
+- 👯 Open to collaboration and contract or freelance web work
+- 💬 Ask me about building web apps, deploying to Vercel, and front-end optimization
 - 📫 Reach me through my LinkedIn or portfolio
 
 ---

@@ -11,7 +11,7 @@
   <circle cx="1000" cy="290" r="150" fill="rgba(255,255,255,0.06)"/>
   <g fill="white" font-family="Segoe UI, Roboto, Arial, sans-serif">
     <text x="60" y="150" font-size="52" font-weight="700">Mansoor Shah</text>
-    <text x="60" y="200" font-size="22" opacity="0.9">Software Developer • Building products that work beautifully</text>
-    <text x="60" y="240" font-size="18" opacity="0.8">Web apps • E-commerce • Portfolio projects • Live business sites</text>
+    <text x="60" y="200" font-size="22" opacity="0.95">Web Developer • Crafting responsive websites & customer-facing web apps</text>
+    <text x="60" y="240" font-size="18" opacity="0.85">Web apps • E-commerce • Portfolio projects • Live business sites</text>
   </g>
 </svg>
