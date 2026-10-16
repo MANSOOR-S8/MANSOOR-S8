@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MANSOOR-S8/MANSOOR-S8/main/assets/banner.svg" alt="Mansoor Shah — Software Developer" width="100%"/>
+</p>
+
 # Hi, I'm Mansoor 👋
 
 [![Profile Views](https://komarev.com/ghpvc/?username=MANSOOR-S8&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/MANSOOR-S8)
@@ -11,6 +15,18 @@ I’m a passionate software developer focused on building clean, efficient, and 
 - 👯 Open to collaboration and exciting opportunities
 - 💬 Ask me about web development, software engineering, and problem solving
 - 📫 Reach me through my LinkedIn or portfolio
+
+---
+
+## 🚧 Live Projects
+
+<p align="center">
+  <a href="https://rshec.pk/" target="_blank">🔗 rshec.pk</a> &nbsp;•&nbsp;
+  <a href="https://leadershec.com/" target="_blank">🔗 leadershec.com</a> &nbsp;•&nbsp;
+  <a href="https://zarqsolution.com/" target="_blank">🔗 zarqsolution.com</a> &nbsp;•&nbsp;
+  <a href="https://blinko-store.vercel.app/" target="_blank">🔗 blinko-store</a> &nbsp;•&nbsp;
+  <a href="https://hawk-sports.com/" target="_blank">🔗 hawk-sports.com</a>
+</p>
 
 ---
 
@@ -45,9 +61,11 @@ I’m a passionate software developer focused on building clean, efficient, and 
 
 ## 🚀 Featured Projects
 
-- Project 1 — Short description of your best project (provide repo link to replace)
-- Project 2 — Another great project you built (provide repo link to replace)
-- Project 3 — A portfolio or app showcasing your skills (provide repo link to replace)
+- [RSHEC](https://rshec.pk/) — Institutional website / portal
+- [LeaderSHEC](https://leadershec.com/) — Leadership platform
+- [Zarq Solution](https://zarqsolution.com/) — Agency / services site
+- [Blinko Store](https://blinko-store.vercel.app/) — E-commerce front-end (Vercel)
+- [Hawk Sports](https://hawk-sports.com/) — Sports equipment / e-commerce site
 
 ---
 
