@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MANSOOR-S8/MANSOOR-S8/main/assets/banner.svg" alt="Mansoor Shah — Web Developer" width="100%"/>
+  <img src="./assets/banner.svg" alt="Mansoor Shah — Web Developer" width="100%" />
 </p>
 
 # Hi, I'm Mansoor 👋
