@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360">
   <defs>
     <linearGradient id="g" x1="0" x2="1">
-      <stop offset="0%" stop-color="#020817" />
-      <stop offset="50%" stop-color="#1d4ed8" />
-      <stop offset="100%" stop-color="#7c3aed" />
+      <stop offset="0%" stop-color="#274FCB" />
+      <stop offset="50%" stop-color="#3E6FF2" />
+      <stop offset="100%" stop-color="#6E93FF" />
     </linearGradient>
   </defs>
   <rect width="1280" height="360" fill="url(#g)" />
-  <circle cx="1120" cy="80" r="120" fill="rgba(255,255,255,0.08)"/>
-  <circle cx="1000" cy="290" r="150" fill="rgba(255,255,255,0.06)"/>
-  <g fill="white" font-family="Segoe UI, Roboto, Arial, sans-serif">
-    <text x="60" y="150" font-size="52" font-weight="700">Mansoor Shah</text>
-    <text x="60" y="200" font-size="22" opacity="0.95">Web Developer • Crafting responsive websites & customer-facing web apps</text>
-    <text x="60" y="240" font-size="18" opacity="0.85">Web apps • E-commerce • Portfolio projects • Live business sites</text>
+  <circle cx="1120" cy="80" r="120" fill="rgba(255,255,255,0.06)"/>
+  <circle cx="1000" cy="290" r="150" fill="rgba(255,255,255,0.04)"/>
+  <g font-family="Segoe UI, Roboto, Arial, sans-serif">
+    <text x="60" y="150" font-size="52" font-weight="700" fill="#E7EEFF">Mansoor Shah</text>
+    <text x="60" y="200" font-size="22" fill="#CFDEFF">Web Developer • Crafting responsive websites &amp; customer-facing web apps</text>
+    <text x="60" y="240" font-size="18" fill="#E7EEFF">Web apps • E-commerce • Portfolio projects • Live business sites</text>
   </g>
 </svg>
